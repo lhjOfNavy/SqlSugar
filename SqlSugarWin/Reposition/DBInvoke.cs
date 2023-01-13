@@ -67,7 +67,7 @@ namespace SqlSugarWin.Utils
         {
             var list = Context.SqlQueryable<SysUser>(
                 "SELECT s.Id,s.Name SysUserName,s.Code,s.LoginName,s.LoginPwd,s.Role,s.CreateOn FROM sysUser AS s")
-                .OrderBy("Id DESC")
+                .OrderBy("Id ASC")
                 .ToPageList(pageNumber, pageSize, ref total);
             return list;
         }
