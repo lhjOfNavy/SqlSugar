@@ -1,0 +1,15 @@
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\bin\Debug\SqlSugarWin.exe.config
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\bin\Debug\SqlSugarWin.exe
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\bin\Debug\SqlSugarWin.pdb
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\bin\Debug\SqlSugar.dll
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.csproj.AssemblyReference.cache
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.csproj.SuggestedBindingRedirects.cache
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.frmMain.resources
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.Properties.Resources.resources
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.csproj.GenerateResource.cache
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.csproj.CoreCompileInputs.cache
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.csproj.CopyComplete
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.exe
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\obj\Debug\SqlSugarWin.pdb
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\bin\Debug\Newtonsoft.Json.dll
+D:\angezhikong\sourceCodeTest\SqlSugarWin\SqlSugarWin\bin\Debug\Newtonsoft.Json.xml
